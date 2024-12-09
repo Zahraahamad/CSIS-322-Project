@@ -1,0 +1,3 @@
+This is the content of file 1.
+It contains some text data for testing purposes.
+Let's see if the client-server file transfer works correctly.

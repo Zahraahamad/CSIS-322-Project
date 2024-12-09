@@ -1,0 +1,4 @@
+File 3 contains a small paragraph:
+"The quick brown fox jumps over the lazy dog.
+A classic pangram often used in typing practice."
+This file is the last one in the test set.

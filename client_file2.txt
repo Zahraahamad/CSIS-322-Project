@@ -1,0 +1,6 @@
+This is file 2. It has some more text data.
+Testing with multiple lines:
+- Line 1
+- Line 2
+- Line 3
+End of file 2 content.
